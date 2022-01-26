@@ -10,6 +10,11 @@ namespace VerIP
 {
     public partial class Form1 : Form
     {
+        /*
+         V0.0.1
+            - Muestra datos de conexion de red.
+        */
+
         public Form1()
         {
             InitializeComponent();
