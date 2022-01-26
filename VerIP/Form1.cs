@@ -12,7 +12,7 @@ namespace VerIP
     {
         /*
          V0.0.1
-            - Muestra datos de conexion de red.
+        - Muestra datos de conexion de red.
         */
 
         public Form1()
